@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[おじさんは今日もコーディング]]></title>
   <link href="http://shindows1988.github.io/atom.xml" rel="self"/>
   <link href="http://shindows1988.github.io/"/>
-  <updated>2013-12-22T04:35:06+09:00</updated>
+  <updated>2013-12-22T05:21:30+09:00</updated>
   <id>http://shindows1988.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Taichi SHINDOU]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
