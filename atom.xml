@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://shindows1988.github.io/atom.xml" rel="self"/>
   <link href="http://shindows1988.github.io/"/>
-  <updated>2013-12-22T03:47:39+09:00</updated>
+  <updated>2013-12-22T04:35:06+09:00</updated>
   <id>http://shindows1988.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[second post]]></title>
-    <link href="http://shindows1988.github.io/blog/2013/12/22/second-post/"/>
-    <updated>2013-12-22T03:22:25+09:00</updated>
-    <id>http://shindows1988.github.io/blog/2013/12/22/second-post</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[first post]]></title>
