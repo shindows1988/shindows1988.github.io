@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[おじさんは今日もコーディング]]></title>
+  <title><![CDATA[おじさんとコード]]></title>
   <link href="http://shindows1988.github.io/atom.xml" rel="self"/>
   <link href="http://shindows1988.github.io/"/>
-  <updated>2013-12-22T05:21:30+09:00</updated>
+  <updated>2013-12-22T11:42:55+09:00</updated>
   <id>http://shindows1988.github.io/</id>
   <author>
     <name><![CDATA[Taichi SHINDOU]]></name>
@@ -14,12 +14,150 @@
 
   
   <entry>
+    
+    <title type="html"><![CDATA[test4]]></title>
+    <link href="http://shindows1988.github.io/blog/2013/12/22/test3/"/>
+    
+    <updated>2013-12-22T11:04:50+09:00</updated>
+    <id>http://shindows1988.github.io/blog/2013/12/22/test3</id>
+    
+    <content type="html"><![CDATA[<h1>見出し1</h1>
+
+<h2>見出し2</h2>
+
+<h3>見出し3</h3>
+
+<p>複数行の改行で１つの段落</p>
+
+<p>あいう</p>
+
+<p>日聞く</p>
+
+<p>色は匂へど <strong>散りぬるを</strong> 我が世誰ぞ</p>
+
+<p>協調できる</p>
+
+<hr />
+
+<p>わくせん</p>
+
+<hr />
+
+<h1>鍋会</h1>
+
+<ul>
+<li>場所: 自宅</li>
+<li>時間: 13:00</li>
+</ul>
+
+
+<h2>買出し(ピェンロー鍋)</h2>
+
+<p><a href="http://localhost">ピェンロー鍋参考</a></p>
+
+<ul>
+<li>豚バラ肉</li>
+<li>白菜</li>
+<li>鶏肉</li>
+<li>春雨</li>
+<li>昆布</li>
+<li>しいたけ</li>
+<li>その他
+
+<ul>
+<li>割り箸</li>
+<li>皿</li>
+<li>紙コップ</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>手順</h2>
+
+<ol>
+<li>鍋に昆布としいたけで出しをとる</li>
+<li>白菜を切る</li>
+<li>葉は大きめに切る</li>
+<li>芯の方は細かく切る</li>
+<li>作る</li>
+<li>食べる</li>
+</ol>
+
+]]></content>
+    
+  </entry>
+  
+  <entry>
+    
+    <title type="html"><![CDATA[test2]]></title>
+    <link href="http://shindows1988.github.io/blog/2013/12/22/test2/"/>
+    
+    <updated>2013-12-22T11:04:50+09:00</updated>
+    <id>http://shindows1988.github.io/blog/2013/12/22/test2</id>
+    
+    <content type="html"><![CDATA[<p>あいう</p>
+]]></content>
+    
+  </entry>
+  
+  <entry>
+    
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://shindows1988.github.io/blog/2013/12/22/test/"/>
+    
+    <updated>2013-12-22T10:55:27+09:00</updated>
+    <id>http://shindows1988.github.io/blog/2013/12/22/test</id>
+    
+    <content type="html"><![CDATA[<p>あいうあいうあいう
+あさい
+あいうあいう</p>
+]]></content>
+    
+  </entry>
+  
+  <entry>
+    
+    <title type="html"><![CDATA[third post]]></title>
+    <link href="http://shindows1988.github.io/blog/2013/12/22/third-post/"/>
+    
+    <updated>2013-12-22T10:31:07+09:00</updated>
+    <id>http://shindows1988.github.io/blog/2013/12/22/third-post</id>
+    
+    <content type="html"><![CDATA[<p>あいう
+あいう</p>
+]]></content>
+    
+  </entry>
+  
+  <entry>
+    
+    <title type="html"><![CDATA[second post]]></title>
+    <link href="http://shindows1988.github.io/blog/2013/12/22/second-post/"/>
+    
+    <updated>2013-12-22T10:24:39+09:00</updated>
+    <id>http://shindows1988.github.io/blog/2013/12/22/second-post</id>
+    
+    <content type="html"><![CDATA[<p>aaあいう
+aiuあいうあいう
+あいう</p>
+
+<p>あいう</p>
+]]></content>
+    
+  </entry>
+  
+  <entry>
+    
     <title type="html"><![CDATA[first post]]></title>
     <link href="http://shindows1988.github.io/blog/2013/12/22/first-post/"/>
+    
     <updated>2013-12-22T03:09:07+09:00</updated>
     <id>http://shindows1988.github.io/blog/2013/12/22/first-post</id>
+    
     <content type="html"><![CDATA[<p>test</p>
 ]]></content>
+    
   </entry>
   
 </feed>
