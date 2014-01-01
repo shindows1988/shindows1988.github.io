@@ -4,7 +4,7 @@
   <title><![CDATA[おじさんとコード]]></title>
   <link href="http://shindows1988.github.io/atom.xml" rel="self"/>
   <link href="http://shindows1988.github.io/"/>
-  <updated>2013-12-22T11:42:55+09:00</updated>
+  <updated>2014-01-01T09:32:27+09:00</updated>
   <id>http://shindows1988.github.io/</id>
   <author>
     <name><![CDATA[Taichi SHINDOU]]></name>
@@ -14,13 +14,10 @@
 
   
   <entry>
-    
     <title type="html"><![CDATA[test4]]></title>
     <link href="http://shindows1988.github.io/blog/2013/12/22/test3/"/>
-    
     <updated>2013-12-22T11:04:50+09:00</updated>
     <id>http://shindows1988.github.io/blog/2013/12/22/test3</id>
-    
     <content type="html"><![CDATA[<h1>見出し1</h1>
 
 <h2>見出し2</h2>
@@ -85,79 +82,58 @@
 </ol>
 
 ]]></content>
-    
   </entry>
   
   <entry>
-    
     <title type="html"><![CDATA[test2]]></title>
     <link href="http://shindows1988.github.io/blog/2013/12/22/test2/"/>
-    
     <updated>2013-12-22T11:04:50+09:00</updated>
     <id>http://shindows1988.github.io/blog/2013/12/22/test2</id>
-    
     <content type="html"><![CDATA[<p>あいう</p>
 ]]></content>
-    
   </entry>
   
   <entry>
-    
     <title type="html"><![CDATA[test]]></title>
     <link href="http://shindows1988.github.io/blog/2013/12/22/test/"/>
-    
     <updated>2013-12-22T10:55:27+09:00</updated>
     <id>http://shindows1988.github.io/blog/2013/12/22/test</id>
-    
     <content type="html"><![CDATA[<p>あいうあいうあいう
 あさい
 あいうあいう</p>
 ]]></content>
-    
   </entry>
   
   <entry>
-    
     <title type="html"><![CDATA[third post]]></title>
     <link href="http://shindows1988.github.io/blog/2013/12/22/third-post/"/>
-    
     <updated>2013-12-22T10:31:07+09:00</updated>
     <id>http://shindows1988.github.io/blog/2013/12/22/third-post</id>
-    
     <content type="html"><![CDATA[<p>あいう
 あいう</p>
 ]]></content>
-    
   </entry>
   
   <entry>
-    
     <title type="html"><![CDATA[second post]]></title>
     <link href="http://shindows1988.github.io/blog/2013/12/22/second-post/"/>
-    
     <updated>2013-12-22T10:24:39+09:00</updated>
     <id>http://shindows1988.github.io/blog/2013/12/22/second-post</id>
-    
     <content type="html"><![CDATA[<p>aaあいう
 aiuあいうあいう
 あいう</p>
 
 <p>あいう</p>
 ]]></content>
-    
   </entry>
   
   <entry>
-    
     <title type="html"><![CDATA[first post]]></title>
     <link href="http://shindows1988.github.io/blog/2013/12/22/first-post/"/>
-    
     <updated>2013-12-22T03:09:07+09:00</updated>
     <id>http://shindows1988.github.io/blog/2013/12/22/first-post</id>
-    
     <content type="html"><![CDATA[<p>test</p>
 ]]></content>
-    
   </entry>
   
 </feed>
